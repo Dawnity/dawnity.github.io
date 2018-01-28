@@ -81,7 +81,7 @@ p {
   width: 80px;
   height: 80px;
   vertical-align: middle;
-  border-radius: 45px;
+  border-radius: 50%;
 }
 .about-author img{
   width: 350px;
@@ -95,7 +95,6 @@ p {
   margin-left: 16px;
   font-size: 18px;
   font-weight: bold;
-  /*Make this bold and larger.*/
 }
 .post-date {
   color: #D2D2D2;
